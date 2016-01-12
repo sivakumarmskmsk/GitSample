@@ -1,2 +1,2 @@
-SaxonLiaison
+SaxonLiaison.jar
 saxon.jar
